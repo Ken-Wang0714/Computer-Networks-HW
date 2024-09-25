@@ -1,0 +1,8 @@
+在此目錄下執行指令
+make
+即建立send_mail
+接著執行指令
+./send_mail
+即可開始輸入信件資訊(寄信人email address,收信人email address,信件內容)
+如要刪除send_mail則輸入指令
+make clean
